@@ -1,0 +1,1 @@
+CI на основе GitHub Actions.
