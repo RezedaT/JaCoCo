@@ -1,1 +1,2 @@
-CI на основе GitHub Actions.
+Настройка CI на основе GitHub Actions.
+Настройка JaCoCo
